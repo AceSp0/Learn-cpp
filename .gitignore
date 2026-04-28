@@ -1,0 +1,14 @@
+*.out
+*.exe
+*.o
+*.obj
+
+*.swp
+*.swo
+*~
+
+.vscode/
+.idea/
+
+*.pem
+id_ed25519*
